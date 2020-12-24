@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Docker]]></title>
+    <title><![CDATA[DOCLever]]></title>
     <url>%2F2020%2F10%2F20%2FDOClever%2F</url>
     <content type="text"><![CDATA[搭建 DOCLever文档服务安装配置安装mongodb​ 官网下载：https://www.mongodb.com/download-center/community​ 64位下载库：http://dl.mongodb.org/dl/win32/x86_64​ 32位下载库：http://dl.mongodb.org/dl/win32/i386安装node​ 官网下载: https://nodejs.org下载源码启动服务相关手册链接：https://www.kancloud.cn/lovefeiyang/doclever/432894http://doclever.cn/controller/read/read.html#5a532f98b7731a2ba86093b3]]></content>
       <categories>
