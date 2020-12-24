@@ -1,2 +1,2 @@
-www.wangwengang.top
+blog.wangwengang.top
 
